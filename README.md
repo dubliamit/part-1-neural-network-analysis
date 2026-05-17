@@ -22,15 +22,15 @@ The dataset was loaded and analyzed to understand -
 2 Data types
 3 Missing values
 4 Statistical summary
-5 Distribution of the target variable (`churn`)
+5 Distribution of the target variable (Churn)
 
 Key observation -
 
 1 Dataset contained both numerical and categorical features.
 2 The target variable was binary:
 
-   `0` means Non-churn
-   `1` means Churn
+   0 means Non-churn
+   1 means Churn
 
 ## 2️ Data Preprocessing
 
