@@ -1,3 +1,6 @@
+# part-1-neural-network-analysis
+Neural Network Fundamentals and Training Behavior Analysis
+
 # Data source
 https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
 
