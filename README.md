@@ -43,7 +43,7 @@ The following preprocessing steps were applied:
 
 ### Feature Scaling
 
-Numerical features were standardized using `StandardScaler` to improve neural network learning stability.
+Numerical features were standardized using **StandardScaler** to improve neural network learning stability.
 
 ### Train-Test Split
 
