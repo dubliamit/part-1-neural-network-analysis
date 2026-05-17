@@ -1,3 +1,6 @@
+# Data source
+https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
+
 # Approach
 
 The objective of this project was to build and evaluate a **feed-forward neural network** for predicting customer churn using structured customer data. 
